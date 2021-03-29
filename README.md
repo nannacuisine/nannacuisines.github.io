@@ -1,8 +1,10 @@
 # nannacuisines.github.io
+<!DOCTYPE html>
 <html>
 <head>
 	<title>NANNA CUISINE</title>
-	<!-- <meta charset="utf-8"> -->
+	<meta charset="utf-8">
+	<link rel="stylesheet" href="stylesheets/style.css">
 </head>
 <body>
 	<!-- menu -->
@@ -21,11 +23,18 @@
 	</div>
 	<div class="clear-float"></div>
 	<div id="main-content">
-		<h1>Trang Chủ</h1>
+		<h1>Giới Thiệu</h1>
 		<div>
-			<img src="images/bìa.jpg" alt="Hình Ảnh Trang Chủ">
+			<img src="images/1.jpg" alt="Phở bò Việt Nam">
+			<img src="images/2.jpg" alt="Dimsum">
+			<img src="images/3.jpg" alt="Hình Ảnh Giới Thiệu">
+			<img src="images/4.jpg" alt="Mỳ Tương Đen">
+			<img src="images/5.jpg" alt="Hình Ảnh Giới Thiệu">
+			<img src="images/7.jpg" alt="Kim chi Hàn Quốc">
+			<img src="images/8.jpg" alt="Canh Miso Nhật">
+			<img src="images/9.jpg" alt="Bánh Mì Việt Nam">
 		</div>
-		<p>Nanna Cuisine là đơn vị cung cấp về món ăn châu Á . Chúng tôi luôn không ngừng nỗ lực cung cấp dịch vụ tốt nhất tới quý khách hàng.</p>
+		<p>Nanna Cuision chuyên chủ đề về ẩm thực châu Á</p>
 
 	<style type="text/css">
 		#main-menu ul {
@@ -40,3 +49,5 @@
 			clear: both;
 		}
 	</style>
+</body>
+</html>
