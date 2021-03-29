@@ -1,5 +1,4 @@
 # nannacuisines.github.io
-<!DOCTYPE html>
 <html>
 <head>
 	<title>NANNA CUISINE</title>
@@ -41,5 +40,3 @@
 			clear: both;
 		}
 	</style>
-</body>
-</html>
